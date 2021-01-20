@@ -18,7 +18,7 @@
 | Arduino LED | Projeto de exemplo para ligar um LED em um Arduino. | [Clique aqui ➡️](https://github.com/GiganteDev/Arduino-LED) |
 | Arduino piscar | Projeto de exemplo para piscar um LED em um Arduino. | [Clique aqui ➡️](https://github.com/GiganteDev/Arduino-blink) |
 | Arduino semáforo | Projeto de exemplo para um semáforo com LED em um Arduino. | [Clique aqui ➡️](https://github.com/GiganteDev/Arduino-semaforo) |
-| Arduino LED intensidade potenciometro | Projeto de exemplo para controlar a intensidade de um LED com um potenciometro em um Arduino. | <p align="center"><img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"></p> |
+| Arduino LED intensidade potenciometro | Projeto de exemplo para controlar a intensidade de um LED com um potenciometro em um Arduino. | [Clique aqui ➡️](https://github.com/GiganteDev/Arduino-LED-potenciometro) |
 | Arduino LED intensidade LDR | Projeto de exemplo para controlar a intensidade de um LEDc com um LDR em um Arduino. | <p align="center"><img alt="Badge em breve" src="https://img.shields.io/badge/-EM%20BREVE-red"></p> |
 
 ### 📦 Intermediários
