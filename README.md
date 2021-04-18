@@ -5,8 +5,6 @@
 
 <p align="center">
   <a href="https://twitter.com/GiganteDev">Twitter</a>
-  ·
-  <a href="https://instagram.com/GiganteDev">Instagram</a>
 </p>
 
 <p align="center">O intuito deste repositório é mostrar projetos desenvolvidos para facilitar os estudos em Arduino de iniciantes!</p>
